@@ -23,23 +23,23 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "KeniBotz" //namabot kalian
-global.ownername= "Kenichi" //nama kalian
-global.myweb ="https://msha.ke/kenibotz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UCf16UupgKYIvhb-o7GItHGQ" //bebas asal jan hapus
-global.github = "https://github.com/Kenichi-BOTZ01" //bebas
-global.email = "kenichiytch@gmail.com" //bebas
+global.botname = "YusupBot" //namabot kalian
+global.ownername= "Yusup Ofc" //nama kalian
+global.myweb ="Blom Diisi" //bebas asal jan hapus
+global.youtube = "Blom Diisi" //bebas asal jan hapus
+global.github = "Blom Diisi" //bebas
+global.email = "Blom Diisi" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["62895388375000","62895388375000"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62895388375000" // nomor wa kalian
-global.ownernomerr = "+62895388375000" //nmr wa kalian
+global.owner = ["6285718303364","6285718303364"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285718303364" // nomor wa kalian
+global.ownernomerr = "+6285718303364" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/kenichi-07-02" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="-" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© KeniBotz' //sticker wm ubah
-global.author = 'Kenichi Project' //sticker wm ganti nama kalian
+global.packname = '© YusupBot' //sticker wm ubah
+global.author = 'Yusup Offc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
